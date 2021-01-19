@@ -5,8 +5,8 @@ to demonstrate this.
 
 ![alt text](https://github.com/diracsbracket/qmltreeview2/blob/master/treeview.png?raw=true)
 
-SUMMARY
--------
+DESCRIPTION
+-----------
 The QML `TreeView` component is only provided as part of the now deprecated 
 (since Qt 5.12) QtQuick Controls 1 module.
 
@@ -15,8 +15,6 @@ the QML types `ScrollView`, `ListView` and `FocusScope`, all of which have their
 equivalents in QtQuick 2. As such, the `TreeView` code can be adapted to depend 
 exclusively on QtQuick 2 imports.
 
-DESCRIPTION
------------
 The `TreeView.qml` file provided here aggregates all the QML code required for the 
 `TreeView` into a single file.
 
