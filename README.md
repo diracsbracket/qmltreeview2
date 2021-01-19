@@ -34,14 +34,10 @@ except for the styling parts which have been eliminated and replaced by hard
 settings. (Almost all) the modified parts are indicated by comments tagged with
 the words `EDIT` and `ADDED`.
 
-Finally, references to scrollbar settings have been commented out.
-
-Given that all the code is available within a single file, it should however
-be straightforward to apply the desired styling or to restore the scrollbar
-functionality.
+Finally, references to scrollbar settings have been commented out. Given that the 
+code is available within a single file, it should be straightforward though to apply 
+the desired styling or to restore the scrollbar functionality.
 
 The above example was only tested on Debian Buster and PiOS both with Qt 5.15.2
 
 Cheers.
-
-
