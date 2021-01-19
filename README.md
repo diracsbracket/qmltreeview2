@@ -3,6 +3,8 @@ This repository provides a self-contained QML TreeView implementation that
 only depends on QtQuick 2 imports. The Qt filessytembrowser example is used
 to demonstrate this.
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 SUMMARY
 -------
 The QML TreeView component is only provided as part of the now deprecated 
