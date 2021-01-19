@@ -40,6 +40,8 @@ Given that all the code is available within a single file, it should however
 be straightforward to apply the desired styling or to restore the scrollbar
 functionality.
 
+The above example was only tested on Debian Buster and PiOS both with Qt 5.15.2
+
 Cheers.
 
 
