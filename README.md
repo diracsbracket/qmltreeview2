@@ -1,6 +1,6 @@
 # qmltreeview2
-This repository provides a self-contained QML TreeView implementation that
-only depends on QtQuick 2 imports. The Qt filessytembrowser example is used
+This repository provides a self-contained QML `TreeView` implementation that
+only depends on QtQuick 2 imports. The Qt `filessytembrowser` example is used
 to demonstrate this.
 
 ![alt text](https://github.com/diracsbracket/qmltreeview2/blob/master/treeview.png?raw=true)
